@@ -78,6 +78,10 @@ print(list_of_nums) # print the sorted list
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/94828147/153798574-641c3f89-10bd-4ba7-9b9d-13f476879af0.png)
+![image](https://user-images.githubusercontent.com/94828147/153798647-b781ca54-d8e3-4910-a8dc-52acb5ca1073.png)
+![image](https://user-images.githubusercontent.com/94828147/153798696-5d054888-2a90-41e5-8f07-719064512bb7.png)
+![image](https://user-images.githubusercontent.com/94828147/153798746-c9b7fdaa-b948-406d-8ff9-a39732a29305.png)
+
 
 
 ## Result:
